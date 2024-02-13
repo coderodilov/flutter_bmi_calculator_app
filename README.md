@@ -6,11 +6,7 @@ BMI calculator app, using dart in Flutter
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/coderodilov/flutter_bmi_calculator_app/assets/91076403/6230cb39-9191-46e7-8537-33aa36a69956)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/coderodilov/flutter_bmi_calculator_app/assets/91076403/c6838d4e-7427-4a5c-bd37-b87b11109db2)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
